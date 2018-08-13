@@ -1,0 +1,10 @@
+{
+    "Unilever": {
+        "ProductType":"classic",
+        "Discount": "n*3-n"
+    },
+    "Apple": {
+        "ProductType":"standout",
+        "Discount": "n=299.99"
+    }
+}
